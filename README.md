@@ -108,3 +108,7 @@ https://notebook.google.com/notebook/9a3063ce-7f5e-4924-b315-26ed8e9f89d2
 # Mapa mental
 https://notebook.google.com/notebook/9a3063ce-7f5e-4924-b315-26ed8e9f89d2/artifact/43259816-3f5b-4c96-9d6f-c8881fa02d8e?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
 
+# Podcast
+Vale salientar que o podcast está hospedado no drive pois tem mais de 25mb de tamanho.
+https://drive.google.com/file/d/1XbRJ5329TW4kIq1gAXFVDXe_QGJL1E4x/view?usp=sharing
+
